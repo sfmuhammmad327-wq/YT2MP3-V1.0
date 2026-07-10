@@ -1,3 +1,4 @@
+![Preview](example.png)
 # 🚀 YT to MP3 — NextGen Audio & Metadata Engine (V1.0)
 
 A sleek, high-performance, full-stack web application designed for seamless YouTube audio extraction and advanced ID3 metadata tagging. Built with a responsive neon cyber-themed frontend and a powerful Node.js backend runner.
